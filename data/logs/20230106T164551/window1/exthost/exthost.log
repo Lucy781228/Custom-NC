@@ -1,7 +1,0 @@
-2023-01-06 16:45:56.512 [info] Extension host with pid 18044 started
-2023-01-06 16:45:56.710 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
-2023-01-06 16:45:56.712 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
-2023-01-06 16:45:56.978 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
-2023-01-06 16:45:56.978 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2023-01-06 16:45:57.337 [info] Extension host terminating: renderer closed the socket
-2023-01-06 16:45:57.339 [info] Extension host with pid 18044 exiting with code 0
